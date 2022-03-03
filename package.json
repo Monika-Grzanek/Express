@@ -1,0 +1,11 @@
+{
+  "name": "Express",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:Monika-Grzanek/Express.git",
+  "author": "Monika Grzanek <monski@o2.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
